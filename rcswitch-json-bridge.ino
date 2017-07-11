@@ -91,6 +91,8 @@ void readConfig() {
   RECEIVE_TOPIC = "received-from-radio";
   HEARTBEAT_TOPIC = "heartbeat";
   DEVICE_ID = "Device 42";
+
+  //todo: actually read the config e.g. from SD card
 }
 
 
